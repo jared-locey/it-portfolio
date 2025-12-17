@@ -1,0 +1,32 @@
+# Active Directory Home Lab
+
+
+## Goal
+Simulate a small enterprise Active Directory environment for hands-on system administration practice.
+
+
+## Environment
+- Windows Server 2022 (Domain Controller)
+- Windows 10 Client
+- Hyper-V virtualization
+
+
+## What I Did
+- Installed and configured a domain controller
+- Created Organizational Units (OUs) for departments
+- Added users and security groups
+- Configured Group Policy Objects (GPOs)
+- Joined client machines to the domain
+
+
+## Skills Demonstrated
+- Active Directory administration
+- Group Policy management
+- Windows Server installation
+- Troubleshooting domain join issues
+
+
+## Lessons Learned
+- Importance of OU design
+- GPO inheritance and troubleshooting
+- Common AD configuration mistakes
