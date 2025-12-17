@@ -1,0 +1,18 @@
+# PowerShell Automation
+
+
+## Overview
+This project contains PowerShell scripts designed to automate routine IT administrative tasks.
+
+
+## Scripts Included
+- User account creation
+- Password reset automation
+- Disk space monitoring
+- Service status checks
+
+
+## Skills Demonstrated
+- PowerShell scripting
+- Automation mindset
+- Error handling and logging
