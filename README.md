@@ -1,4 +1,4 @@
-# it-portfolio
+# IT-portfolio
 Showcase of projects
 # Jared – IT / Systems Administration Portfolio
 
